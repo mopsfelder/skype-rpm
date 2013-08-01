@@ -9,7 +9,7 @@ License:        Commercial
 URL:            http://www.skype.com/products/skype/linux/
 Source0:        %{name}-%{version}.tar.bz2
 
-Requires:       alsa-lib(x86-32) >= 1.0.23
+Requires:       alsa-lib(x86-32)
 Requires:       glibc(x86-32)
 Requires:       libgcc(x86-32)
 Requires:       libpng(x86-32)
