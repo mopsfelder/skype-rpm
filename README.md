@@ -13,4 +13,6 @@ The resulting package will be created under `./RPMS/i686`.
 
 ## Install the rpm
 
-`$ sudo rpm -Uvh ./RPMS/i686/skype-*.rpm`
+On RHEL, CentOS, Fedora:
+
+`$ sudo yum localinstall ./RPMS/i686/skype-*.rpm`
