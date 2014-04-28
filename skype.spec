@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 
 Name:           skype
-Version:        4.2.0.11
+Version:        4.2.0.13
 Release:        1%{?dist}
 Summary:        Skype is a free Internet telephony from Microsoft
 
@@ -80,5 +80,7 @@ done
 
 
 %changelog
+* Mon Apr 28 2014 Murilo Opsfelder Araujo <mopsfelder@gmail.com> 4.2.0.13-1
+- Update to 4.2.0.13
 * Wed Jul 31 2013 Murilo Opsfelder Araujo <mopsfelder@gmail.com> 4.2.0.11-1
 - Initial version
